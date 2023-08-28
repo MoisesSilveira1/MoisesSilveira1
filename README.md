@@ -1,7 +1,6 @@
-### Olá!!! Eu sou o Moisés Silveira
+### Olá! Eu sou o Moisés Silveira
 
-- 🔭 Hoje eu estou cursando Análise e Desenvolvimento de Sistema.
-- 🌱 Estou focanod em DevOps.
+- 🔭 "Sou estudante de Análise e Desenvolvimento de Sistemas com forte interesse em DevOps. Ao longo dos meus estudos, tenho aprendido a importância da automação e colaboração na entrega de software de qualidade. Estou animado em seguir minha carreira em DevOps e busco estar atualizado, fazendo cursos de aperfeiçoamento. Estou pronto para enfrentar novos desafios na carreira."
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
