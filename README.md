@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou desempregado.
 - 🌱 Forte interesse em DevOps e fazendo cursos de aperfeiçoamento em cyber security.
 - 📜 Estou animado em seguir carreira em DevOps ou cyber security .
-- ⚡ Curiosidade: Gosto de esportes 🚴⚽🏊🏃
+- ⚡ Curiosidade: gosto de esportes 🚴⚽🏊🏃
 
   
 ## Qualificação profissional
