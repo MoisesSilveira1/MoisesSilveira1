@@ -8,7 +8,7 @@
 - ⚡ Curiosidade: Gosto de esportes 🚴⚽🏊🏃
 
   
-##
+## Qualificação profissional
 <div style="display: inline_block"><br>
 
   
@@ -18,19 +18,12 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" />
           
-### Estou aprendendo
+### Estou Aprendendo
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
           
-
-##
-<div>
-<a [href="https://github.com/MoisesSilveira1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSilveira1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesSilveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 
 
@@ -41,5 +34,14 @@
   
 </div>
 
-![Snake animation](https://github.com/MoisesSilveira1/MoisesSilveira1/blob/output/github-contribution-grid-snake.svg)
+
+##
+<div>
+<a [href="https://github.com/MoisesSilveira1">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSilveira1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesSilveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
 
