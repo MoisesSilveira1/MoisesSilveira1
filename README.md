@@ -1,20 +1,38 @@
-### Olá! Eu sou o Moisés Silveira
+# 👋 Hello! Welcome to my Github profile.
+### My name is Moisés Silveira
 
-- 🔭 "Sou estudante de Análise e Desenvolvimento de Sistemas com forte interesse em DevOps. Ao longo dos meus estudos, tenho aprendido a importância da automação e colaboração na entrega de software de qualidade. Estou animado em seguir minha carreira em DevOps e busco estar atualizado, fazendo cursos de aperfeiçoamento. Estou pronto para enfrentar novos desafios na carreira."
+- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente estou desempregado.
+- 🌱 Forte interesse em DevOps e fazendo cursos de aperfeiçoamento em cyber security.
+- 📜 Estou animado em seguir carreira em DevOps ou cyber security .
+- ⚡ Curiosidade: Gosto de esportes 🚴⚽🏊🏃
 
+  
+##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" />
+          
+### Estou aprendendo
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+          
 
 ##
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a [href="https://github.com/MoisesSilveira1">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSilveira1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesSilveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 
-
 
 <div> 
  
