@@ -2,7 +2,8 @@
 ### My name is Moisés Silveira
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🔭 Atualmente estou desempregado.
+- 🔭 Atualmente estou no estágio da ![image](https://github.com/user-attachments/assets/58353b02-9234-4bfd-8b55-ce758fc0b668) em DevSecOps.
+.
 - 🌱 Forte interesse em DevOps e fazendo cursos de aperfeiçoamento em cyber security.
 - 📜 Estou animado em seguir carreira em DevOps ou cyber security .
 - ⚡ Curiosidade: gosto de esportes 🚴⚽🏊🏃
